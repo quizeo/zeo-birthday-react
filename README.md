@@ -8,6 +8,6 @@ This is a birthday list website made with React. You can remove a single birthda
 <img src="/public/HTML5_logo_and_wordmark.svg.png" alt="Description" width="80px" >
 <img src="/public/CSS-Logo.png" alt="Description" width="130px" >
 <img src="/public/JavaScript-Logo-2048x1280.png" alt="Description" width="130px" >
- <img src="//public/react.png" alt="Description" width="100px" >
+ <img src="/public/react.png" alt="Description" width="100px" >
 </div>
  
