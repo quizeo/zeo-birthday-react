@@ -1,4 +1,4 @@
-# Backroad-react
+# zeo-birthday-react
 This is a birthday list website made with React. You can remove a single birthday or clear the whole list. I used Context API to share data between pages without passing it through each one.
  
 <strong style="font-weight:bold; display:block; width:100%;">https://zeo-birthday-react.netlify.app/</strong>
